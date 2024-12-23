@@ -1,0 +1,46 @@
+span {
+    font-size: larger;
+}
+
+.heading1 {
+    background-color: lightblue;
+    color: black;
+}
+
+.green{
+    background-color: green;
+    color: white;
+}
+
+div{align-self: center;}
+
+.myclass {
+    background-color: gray;
+}
+
+.oo {
+    background-color: blue;
+    color: white;
+}
+
+.blue {
+    color: blue !important;
+}
+
+.navy {
+    background-color: navy;
+    color: white;
+}
+
+.apply {
+    border: 1px solid black;
+    width: 350px;
+    height: 350px;
+    margin: auto;
+    text-align: center;
+}
+.bwt {color: white;
+background-color: blue;}
+.Profiletext {
+    text-align: center;
+}
